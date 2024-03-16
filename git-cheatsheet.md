@@ -58,3 +58,5 @@
 
 1. Após a revisao de um PULL Resquest dentro do Github é possível solicitar um Merge.
 2. Se nao houver conflito, basta confirmar e as alteracoes do BRANCHE, estao agora, inclusas no MAIN.
+
+[]
